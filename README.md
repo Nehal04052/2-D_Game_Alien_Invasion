@@ -40,7 +40,7 @@ The objective is to survive as long as possible while accumulating points by des
     
     python alien_invasion.py
     
-Control the spaceship using the arrow keys and shoot by pressing the spacebar.
+ Control the spaceship using the arrow keys and shoot by pressing the spacebar.
 
 # Gameplay
   Use the left and right arrow keys to move the spaceship horizontally.
@@ -51,10 +51,10 @@ Control the spaceship using the arrow keys and shoot by pressing the spacebar.
 
 # If you'd like to contribute to the Alien Invasion game, follow these steps:
 
-  Fork the repository.
-  Create a new branch for your feature or bug fix.
-  Implement your changes.
-  Submit a pull request.
+      1. Fork the repository.
+      2. Create a new branch for your feature or bug fix.
+      3. Implement your changes.
+      4. Submit a pull request.
 
 # Snapshot
 ![3](https://github.com/Nehal04052/2-D_Game_Alien_Invasion/assets/126107576/9e021360-efc4-44f1-99d9-a4551b14f56e)
